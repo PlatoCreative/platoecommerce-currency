@@ -1,6 +1,6 @@
 {
 	"name": "plato-creative/platoecommerce-currency",
-	"description": "Currency support for SwipeStripe.",
+	"description": "Currency support.",
 	"homepage": "http://swipestripe.com",
 	"license": "BSD-3-Clause",
 	"type": "silverstripe-module",
