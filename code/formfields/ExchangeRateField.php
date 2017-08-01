@@ -15,4 +15,3 @@ class ExchangeRateField extends DropdownField {
 		return 'exchangerate';
 	}
 }
-
