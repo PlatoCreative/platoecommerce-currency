@@ -6,7 +6,7 @@ class ExchangeRateField extends DropdownField {
 
 		Requirements::javascript(THIRDPARTY_DIR . '/jquery/jquery.js');
 		Requirements::javascript(THIRDPARTY_DIR . '/jquery-entwine/dist/jquery.entwine-dist.js');
-		Requirements::javascript('swipestripe-currency/javascript/ExchangeRateField.js');
+		Requirements::javascript('plato-ecommerce-currency/javascript/ExchangeRateField.js');
 
 		return parent::FieldHolder();
 	}
